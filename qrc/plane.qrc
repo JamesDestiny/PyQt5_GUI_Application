@@ -1,0 +1,26 @@
+<RCC>
+  <qresource>
+    <file>../img/Plane.png</file>
+  </qresource>
+  <qresource prefix="label">
+    <file>timg.jpg</file>
+  </qresource>
+  <qresource prefix="photo">
+    <file>88.jpg</file>
+    <file>56456.jpg</file>
+    <file>561fadc8c3567.jpg</file>
+    <file>656.jpg</file>
+    <file>snap2018-05-21-16-52-17.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>five.png</file>
+    <file>four.png</file>
+    <file>one.png</file>
+    <file>six.png</file>
+    <file>three.png</file>
+    <file>two.png</file>
+  </qresource>
+  <qresource prefix="button">
+    <file>button.png</file>
+  </qresource>
+</RCC>
